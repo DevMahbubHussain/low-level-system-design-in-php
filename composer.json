@@ -2,10 +2,11 @@
     "name": "root/low-level-system-design-in-php",
     "description": "Low Level System Design Ride Sharing App",
     "type": "php-project",
+    "version": "1.0.0",
     "license": "mit",
     "autoload": {
         "psr-4": {
-            "Root\\LowLevelSystemDesignInPhp\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
