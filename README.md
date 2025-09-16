@@ -2,7 +2,7 @@
 ## Low Level System Design using PHP
 ### Ride-sharing application from scratch using PHP with SOLID principles and design patterns. 
 
-
+```
 +----------------+       +---------------------+       +-------------------+
 |    Passenger   |       |        Ride         |       |      Driver       |
 +----------------+       +---------------------+       +-------------------+
