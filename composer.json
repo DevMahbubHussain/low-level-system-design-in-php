@@ -1,12 +1,11 @@
 {
     "name": "root/low-level-system-design-in-php",
-    "description": "Low Level System Design Ride Sharing App",
+    "description": "Bank ManageMent App",
     "type": "php-project",
-    "version": "1.0.0",
-    "license": "mit",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
-            "App\\": "src/"
+            "Root\\LowLevelSystemDesignInPhp\\": "src/"
         }
     },
     "authors": [
