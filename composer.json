@@ -1,0 +1,18 @@
+{
+    "name": "root/low-level-system-design-in-php",
+    "description": "Online Movie Ticket System",
+    "type": "php-project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mahbub Hussain"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
