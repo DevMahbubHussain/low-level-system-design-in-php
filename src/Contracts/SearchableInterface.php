@@ -3,5 +3,5 @@
 namespace App\CarRental\Contracts;
 
 interface SearchableInterface{
-    public function search(string $query):string;
+    public function search(string $query):array;
 }
