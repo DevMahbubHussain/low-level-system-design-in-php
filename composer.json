@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Root\\LowLevelSystemDesignInPhp\\": "src/"
+            "App\\CarRental\\": "src/"
         }
     },
     "authors": [
